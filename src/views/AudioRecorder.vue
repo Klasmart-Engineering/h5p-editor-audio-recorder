@@ -134,7 +134,7 @@
   .h5p-audio-recorder-view {
     font-size: 1em;
     text-align: center;
-    font-family: Arial, 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
     [class^="fa-"] {
       font-family: 'H5PFontAwesome4';
@@ -297,7 +297,7 @@
 
     .button {
       font-size: 0.875em;
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Roboto', sans-serif;
       padding: 0.5em 1em;
       border-radius: 2em;
       margin: 0 0.5em;
